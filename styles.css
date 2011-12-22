@@ -1,0 +1,78 @@
+a:link {text-decoration: none;color:#a9bfd3;font-weight:bold}
+a:visited {text-decoration: none;color:#a9bfd3;font-weight:bold}
+a:active {text-decoration: none;color:#a9bfd3;font-weight:bold}
+a:hover {text-decoration: none;color:#e3d4ae;font-weight:bold}
+
+body {
+	background-color:#000000;
+	padding:0px;
+	margin:0px;
+}
+
+header {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+header img {
+	width: 1024px;
+	height: 1024px;
+}
+
+footer {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+ul li {
+	display: inline;
+}
+
+ul li a {
+	display: block;
+	width: 91px;
+	height: 41px;
+}
+
+#facebook { 
+	background: url('images/SocialButtons.jpg') no-repeat;
+	background-position: 0 0;
+}
+
+#facebook:hover { 
+	background-position: 0 41px;
+}
+
+#twitter { 
+	background: url('images/SocialButtons.jpg') no-repeat;
+	background-position: 91px 0;
+}
+
+#twitter:hover { 
+	background-position: 91px 41px;
+}
+
+#soundcloud { 
+	background: url('images/SocialButtons.jpg') no-repeat;
+	background-position: 182px 0;
+}
+
+#soundcloud:hover { 
+	background-position: 182px 41px;
+}
+
+#beatport { 
+	background: url('images/SocialButtons.jpg') no-repeat;
+	background-position: 273px 0;
+}
+
+#beatport:hover { 
+	background-position: 273px 41px;
+}
+
