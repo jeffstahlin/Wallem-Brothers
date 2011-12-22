@@ -40,39 +40,39 @@ ul li a {
 	height: 41px;
 }
 
-#facebook { 
+.facebook { 
 	background: url('images/SocialButtons.jpg') no-repeat;
 	background-position: 0 0;
 }
 
-#facebook:hover { 
+.facebook:hover { 
 	background-position: 0 41px;
 }
 
-#twitter { 
+.twitter { 
 	background: url('images/SocialButtons.jpg') no-repeat;
 	background-position: 91px 0;
 }
 
-#twitter:hover { 
+.twitter:hover { 
 	background-position: 91px 41px;
 }
 
-#soundcloud { 
+.soundcloud { 
 	background: url('images/SocialButtons.jpg') no-repeat;
 	background-position: 182px 0;
 }
 
-#soundcloud:hover { 
+.soundcloud:hover { 
 	background-position: 182px 41px;
 }
 
-#beatport { 
+.beatport { 
 	background: url('images/SocialButtons.jpg') no-repeat;
 	background-position: 273px 0;
 }
 
-#beatport:hover { 
+.beatport:hover { 
 	background-position: 273px 41px;
 }
 
