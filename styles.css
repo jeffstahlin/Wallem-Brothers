@@ -15,13 +15,14 @@ header {
 }
 
 header img {
-	width: 1024px;
-	height: 1024px;
+	width: 900px;
+	height: 900px;
 }
 
 footer {
 	width: 1024px;
-	margin: 0 auto;
+	margin: -50px auto 0;
+    text-align: center;
 }
 
 ul {
